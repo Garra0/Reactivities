@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/osama/Desktop/Projects/Reactivities/Reactivities/Persistence/Persistence.csproj": {}
+    "/Users/osama/Desktop/Projects/demo/Reactivities/Persistence/Persistence.csproj": {}
   },
   "projects": {
-    "/Users/osama/Desktop/Projects/Reactivities/Reactivities/Domain/Domain.csproj": {
+    "/Users/osama/Desktop/Projects/demo/Reactivities/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/osama/Desktop/Projects/Reactivities/Reactivities/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/osama/Desktop/Projects/demo/Reactivities/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/osama/Desktop/Projects/Reactivities/Reactivities/Domain/Domain.csproj",
+        "projectPath": "/Users/osama/Desktop/Projects/demo/Reactivities/Domain/Domain.csproj",
         "packagesPath": "/Users/osama/.nuget/packages/",
-        "outputPath": "/Users/osama/Desktop/Projects/Reactivities/Reactivities/Domain/obj/",
+        "outputPath": "/Users/osama/Desktop/Projects/demo/Reactivities/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/osama/.nuget/NuGet/NuGet.Config"
@@ -58,14 +58,14 @@
         }
       }
     },
-    "/Users/osama/Desktop/Projects/Reactivities/Reactivities/Persistence/Persistence.csproj": {
+    "/Users/osama/Desktop/Projects/demo/Reactivities/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/osama/Desktop/Projects/Reactivities/Reactivities/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/osama/Desktop/Projects/demo/Reactivities/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/osama/Desktop/Projects/Reactivities/Reactivities/Persistence/Persistence.csproj",
+        "projectPath": "/Users/osama/Desktop/Projects/demo/Reactivities/Persistence/Persistence.csproj",
         "packagesPath": "/Users/osama/.nuget/packages/",
-        "outputPath": "/Users/osama/Desktop/Projects/Reactivities/Reactivities/Persistence/obj/",
+        "outputPath": "/Users/osama/Desktop/Projects/demo/Reactivities/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/osama/.nuget/NuGet/NuGet.Config"
@@ -81,8 +81,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/osama/Desktop/Projects/Reactivities/Reactivities/Domain/Domain.csproj": {
-                "projectPath": "/Users/osama/Desktop/Projects/Reactivities/Reactivities/Domain/Domain.csproj"
+              "/Users/osama/Desktop/Projects/demo/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/Users/osama/Desktop/Projects/demo/Reactivities/Domain/Domain.csproj"
               }
             }
           }
@@ -96,6 +96,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vYMNjqjivink0UK7jd+2ebtf5hfIcPmQEN5iFOcmudIZ5pryq5XQflZDG8spyX//RvALQF4s4mj7tibBX6K4pg==",
+  "dgSpecHash": "lBUEZ3OiqdOPD2PrbgHn4Fs2FOheQDGBMGpl5lNzYff0NYnp/mWN9T2/q4vhitmrxXosQYeoa0RbIFxSm1KbEA==",
   "success": true,
-  "projectFilePath": "/Users/osama/Desktop/Projects/Reactivities/Reactivities/Domain/Domain.csproj",
+  "projectFilePath": "/Users/osama/Desktop/Projects/demo/Reactivities/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
