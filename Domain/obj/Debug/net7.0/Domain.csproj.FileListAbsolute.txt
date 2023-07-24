@@ -1,0 +1,12 @@
+/Users/osama/Desktop/Projects/Reactivities/Reactivities/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/osama/Desktop/Projects/Reactivities/Reactivities/Domain/bin/Debug/net7.0/Domain.dll
+/Users/osama/Desktop/Projects/Reactivities/Reactivities/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/osama/Desktop/Projects/Reactivities/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/osama/Desktop/Projects/Reactivities/Reactivities/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osama/Desktop/Projects/Reactivities/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/osama/Desktop/Projects/Reactivities/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/osama/Desktop/Projects/Reactivities/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/osama/Desktop/Projects/Reactivities/Reactivities/Domain/obj/Debug/net7.0/Domain.dll
+/Users/osama/Desktop/Projects/Reactivities/Reactivities/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/osama/Desktop/Projects/Reactivities/Reactivities/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/osama/Desktop/Projects/Reactivities/Reactivities/Domain/obj/Debug/net7.0/ref/Domain.dll
